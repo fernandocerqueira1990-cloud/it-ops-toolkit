@@ -17,7 +17,7 @@ O cenário usa problemas reais de operações N2/N3 como base, transformando exp
 
 ## Tecnologias previstas
 
-Python 3.12, Pytest, Ruff, Git/GitHub e GitHub Actions. Nas próximas etapas, também serão explorados logs estruturados, configuração por arquivo e relatórios CSV/JSON.
+Python 3.13, Pytest, Ruff, Git/GitHub e GitHub Actions. Nas próximas etapas, também serão explorados logs estruturados, configuração por arquivo e relatórios CSV/JSON.
 
 ## Como aprenderemos
 
@@ -29,3 +29,13 @@ Não vamos apenas executar comandos. Para cada etapa, responderemos:
 4. **Como verificamos que funciona?**
 
 Consulte [docs/00-backlog.md](docs/00-backlog.md) para acompanhar o roteiro.
+
+## Estado atual
+
+- [x] Repositório e estrutura-base criados
+- [x] Ambiente virtual Python configurado
+- [x] Pytest e Ruff instalados
+- [x] Primeiro módulo: validação de portas de rede
+- [x] Primeiros testes automatizados executados
+- [x] Documentação da funcionalidade criada
+- [ ] Primeiro commit local e envio ao GitHub

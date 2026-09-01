@@ -7,10 +7,10 @@ Este backlog mostra o que será feito e evita pular etapas. Cada item deve resul
 - [x] Criar o repositório público no GitHub.
 - [x] Definir objetivo, escopo e método de aprendizagem.
 - [x] Configurar arquivos-base do projeto.
-- [ ] Criar ambiente virtual Python.
-- [ ] Instalar Pytest e Ruff.
-- [ ] Criar o pacote `it_ops_toolkit`.
-- [ ] Escrever e executar o primeiro teste.
+- [x] Criar ambiente virtual Python.
+- [x] Instalar Pytest e Ruff.
+- [x] Criar o pacote `it_ops_toolkit`.
+- [x] Escrever e executar o primeiro teste.
 
 ## Sprint 2 — Diagnóstico de rede
 
