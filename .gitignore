@@ -1,0 +1,14 @@
+# Ambiente virtual: bibliotecas instaladas localmente.
+.venv/
+
+# Cache criado pelo Python e pelas ferramentas de desenvolvimento.
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+
+# Resultados locais de cobertura de testes.
+.coverage
+htmlcov/
+
+# Configurações locais e segredos: nunca publicar no Git.
+.env
