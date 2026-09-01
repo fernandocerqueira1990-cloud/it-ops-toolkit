@@ -1,0 +1,17 @@
+[project]
+name = "it-ops-toolkit"
+version = "0.1.0"
+description = "Ferramentas didáticas de automação e diagnóstico para operações de TI."
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+  { name = "Fernando Henrique Cerqueira" }
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
