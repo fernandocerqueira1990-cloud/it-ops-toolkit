@@ -12,3 +12,6 @@ htmlcov/
 
 # Configurações locais e segredos: nunca publicar no Git.
 .env
+
+# Metadados gerados pela instalação local do pacote
+*.egg-info/

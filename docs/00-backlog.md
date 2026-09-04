@@ -14,10 +14,10 @@ Este backlog mostra o que será feito e evita pular etapas. Cada item deve resul
 
 ## Sprint 2 — Diagnóstico de rede
 
-- [ ] Implementar verificador de porta TCP.
-- [ ] Tratar host inválido, timeout e porta fechada.
-- [ ] Criar testes unitários.
-- [ ] Expor comando de linha de comando.
+- [x] Implementar verificador de porta TCP.
+- [x] Tratar host inválido, timeout e porta fechada.
+- [x] Criar testes unitários.
+- [x] Expor comando de linha de comando.
 
 ## Sprint 3 — Diagnóstico local
 

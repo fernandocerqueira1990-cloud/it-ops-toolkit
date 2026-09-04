@@ -30,6 +30,14 @@ Não vamos apenas executar comandos. Para cada etapa, responderemos:
 
 Consulte [docs/00-backlog.md](docs/00-backlog.md) para acompanhar o roteiro.
 
+A primeira funcionalidade entregue está documentada em
+[Verificador de porta TCP](docs/01-tcp-port-check.md).
+
+- [x] Verificador de conectividade TCP implementado
+- [x] Interface de linha de comando criada
+- [x] Testes automatizados da funcionalidade executados
+- [x] Documentação da funcionalidade adicionada
+
 ## Estado atual
 
 - [x] Repositório e estrutura-base criados
