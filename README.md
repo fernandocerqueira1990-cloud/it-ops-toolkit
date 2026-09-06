@@ -46,4 +46,4 @@ A primeira funcionalidade entregue está documentada em
 - [x] Primeiro módulo: validação de portas de rede
 - [x] Primeiros testes automatizados executados
 - [x] Documentação da funcionalidade criada
-- [ ] Primeiro commit local e envio ao GitHub
+- [x] Primeiro commit e publicação no GitHub concluídos
